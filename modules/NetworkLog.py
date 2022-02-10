@@ -21,7 +21,6 @@ def get_perf_log_on_load(url, headless=True, filter=None):
     driver.close()
     return log
 
-
 url = "https://soundcloud.com/sukhman-brar-881966732/yaaran-nal-de-gur-sidhu"
 netlog = (get_perf_log_on_load(url))
 for i in netlog:
