@@ -3,7 +3,6 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 import time
 
-
 def get_perf_log_on_load(url, headless=True, filter=None):
     # init Chrome driver (Selenium)
     options = Options()
