@@ -1,5 +1,6 @@
-import regex as re
 import urllib.request
+
+import regex as re
 
 with open(r'C:\Users\hp\Desktop\misc\SE Project\FantasicFour\Temp\log.txt', 'r') as file:
     data = file.read().replace('\n', '')
