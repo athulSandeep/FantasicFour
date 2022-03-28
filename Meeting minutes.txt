@@ -1,2 +1,7 @@
 12-02-2022 - 16 minutes: User Stories and UseCase diagram discussion.
 14-02-2022 - 7 minutes: Finalization and creation of presentation.
+10-03-2022 - 17 minutes: CLass Diagram discussion 1
+12-03-2022 - 12 minutes: CLass Diagram discussion 2
+24-03-2022 - 5 minutes: Divison of work
+27-03-2022 - 12 minutes: Progress review
+27-03-2022 - 5 minutes: Final commit
