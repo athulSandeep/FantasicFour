@@ -21,7 +21,7 @@ def get_perf_log_on_load(url, headless=True, filter=None):
     driver.close()
     return log
 
-url = "https://soundcloud.com/hu-nh-l-ng-duy-thi-n/double-take?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+url = "https://soundcloud.com/nijjarmusic/velly-feat-deepak-dhillon"
 netlog = (get_perf_log_on_load(url))
 for i in netlog:
     print(i, "\n")
